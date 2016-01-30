@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[nkh-test]]></title>
         <description><![CDATA[nkh-test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nkh-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 17:22:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 17:31:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nkh-test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test]]></title>
             <description><![CDATA[<article><h1>Test</h1><p>Draft of test site to understand functionality.</p></article>]]></description>
-            <link>undefinedtest/index.html</link>
+            <link>https://thegrid.ai/nkh-test/test/index.html</link>
             <guid isPermaLink="false">05459124-2e5f-48b9-b2e3-7dd58b79b763</guid>
-            <pubDate>Sat, 30 Jan 2016 17:22:07 GMT</pubDate>
+            <pubDate>Sat, 30 Jan 2016 17:29:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
